@@ -1,0 +1,29 @@
+/* applying global styling */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#form {
+    padding: 35px;
+    margin-top: 250px;
+} 
+
+#form {
+    padding: 60px 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+#response {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-inline: 40px;
+    border: 2px solid white;
+}
+
